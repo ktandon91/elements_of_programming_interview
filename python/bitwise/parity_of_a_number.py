@@ -8,4 +8,3 @@ def parity(n):
 
 parity(5)
 
-target = "abc"
